@@ -21,7 +21,7 @@ To view the DB for yourself, download https://sqlitebrowser.org/
 Use the application to open database.db
 
 # Screenshots
-!(https://github.com/CZ2007-Group-2/Group2/blob/jovian/SQLite%20Demo/demo/screenshots/1.png)
-!(https://github.com/CZ2007-Group-2/Group2/blob/jovian/SQLite%20Demo/demo/screenshots/2.png)
-!(https://github.com/CZ2007-Group-2/Group2/blob/jovian/SQLite%20Demo/demo/screenshots/3.png)
-!(https://github.com/CZ2007-Group-2/Group2/blob/jovian/SQLite%20Demo/demo/screenshots/4.png)
+![Screenshot 1](https://github.com/CZ2007-Group-2/Group2/blob/jovian/SQLite%20Demo/demo/screenshots/1.png)
+![Screenshot 2](https://github.com/CZ2007-Group-2/Group2/blob/jovian/SQLite%20Demo/demo/screenshots/2.png)
+![Screenshot 3](https://github.com/CZ2007-Group-2/Group2/blob/jovian/SQLite%20Demo/demo/screenshots/3.png)
+![Screenshot 4](https://github.com/CZ2007-Group-2/Group2/blob/jovian/SQLite%20Demo/demo/screenshots/4.png)
